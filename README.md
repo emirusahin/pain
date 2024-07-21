@@ -9,6 +9,7 @@ None of the independent variables (height, weight, skin area, BMI) show a strong
 People who have fibromyalgia are, in average, older, shorter, heavier, has a higher BMI and skin area than those who don't have fibromyalgia. These differences are statistically significant as shown in the t-test. 
 
 Mean X of people without and with fibromyalgia:
+
 height: 1.623 - 1.616
 
 weight: 68.740 - 73.939 
